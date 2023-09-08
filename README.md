@@ -13,3 +13,7 @@ In this article, we are going to be discussing Markdown Syntax under the followi
 - Horizontal Rule
 - Link
 - Image
+---
+## Practical Approach to Using Markdown
+You can get started with writing articles using markdown with the link below:
+[Markdown Cheatsheet](https://www.markdownguide.org/cheat-sheet/)
